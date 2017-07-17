@@ -1,4 +1,8 @@
 (function() {
+
+    jQuery(document).ready(function($) {
+        console.log('DA')    
+    });
     const data = [
     {
         src: 'black-q-0001.jpg',
